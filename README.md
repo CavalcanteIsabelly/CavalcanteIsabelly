@@ -12,6 +12,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no SENAI. Aos 16 anos, e
 🌱 Aprendizado contínuo: Acredito que aprender algo novo todos os dias é a chave para a inovação.
 
 Conecte-se Comigo
+
 📧 Email: isabelly.cavalcante@icloud.com
+
 📸 Instagram: @cavalcante__isabelly
+
 🌐 Linkedin: Isabelly Cavalcante
