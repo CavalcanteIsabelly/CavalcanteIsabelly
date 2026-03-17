@@ -1,19 +1,10 @@
-# Olá, eu sou a Isabelly Cavalcante! 👋
+👩‍💻 Sobre Mim
+Sou estudante de Análise e Desenvolvimento de Sistemas no SENAI. Aos 16 anos, estou mergulhada no mundo da tecnologia, focada em construir uma base sólida para me tornar uma desenvolvedora de excelência.
 
-```javascript
-class EstudanteDeSistemas {
-  constructor() {
-    this.nome = "Isabelly Cavalcante";
-    this.idade = 16;
-    this.instituicao = "SENAI";
-    this.curso = "Análise e Desenvolvimento de Sistemas";
-    this.focoAtual = ["Lógica de Programação", "Estrutura de Dados", "Desenvolvimento Web"];
-  }
+🎓 Formação: cursando ADS no SENAI.
 
-  status() {
-    return "Transformando desafios em código e aprendendo algo novo todos os dias! 🚀";
-  }
-}
+🚀 Foco Atual: Lógica de Programação, Estrutura de Dados e Desenvolvimento Web.
 
-const isabelly = new EstudanteDeSistemas();
-console.log(isabelly.status());
+💡 Objetivo: Transformar desafios complexos em soluções eficientes através do código.
+
+🌱 Aprendizado contínuo: Acredito que aprender algo novo todos os dias é a chave para a inovação.
